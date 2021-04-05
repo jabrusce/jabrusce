@@ -2,7 +2,14 @@
 
 - 🌱 I’m currently working on Machine Learning projects based in Python
 - :pencil2: I’m currently writing about my data science journey <a href="https://bruscellajohn.medium.com/">here</a>!
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabrusce&theme=dark&show_icons=true)
+
+<br />
+
+<details>
+  <summary>Stats</summary>
+  <br>
+  ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabrusce&theme=dark&show_icons=true)
+</details>
 
 <!--
 **jabrusce/jabrusce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
