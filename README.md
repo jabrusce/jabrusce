@@ -8,7 +8,9 @@
 <details>
   <summary>Stats</summary>
   <br>
+  
   ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabrusce&theme=dark&show_icons=true)
+  
 </details>
 
 <!--
