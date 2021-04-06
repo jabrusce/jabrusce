@@ -9,7 +9,7 @@ I am a data scientist with a background in engineering. I am always looking for 
 
 - 🐍 Python
 - 🐘 SQL
-- 👀 Tableau
+- 📈 Tableau
 - 🎈 Streamlit/Flask/Heroku
 
 <br />
